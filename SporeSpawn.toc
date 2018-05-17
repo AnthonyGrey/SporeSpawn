@@ -1,0 +1,5 @@
+## Interface: 11000
+## Title: SporeSpawn
+## Author: Juli of Cenarius
+## Description: Detects Loatheb casting Summon Spore and announces groups to obtain the buff.
+SporeSpawn.xml
